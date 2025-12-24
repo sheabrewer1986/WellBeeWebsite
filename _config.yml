@@ -1,0 +1,7 @@
+title: Well Bee
+description: A simple, calm way to reflect and check in.
+
+remote_theme: raviriley/agency-jekyll-theme
+
+plugins:
+  - jekyll-remote-theme
