@@ -38,28 +38,28 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Health and Wellness Tracker
-    description                           : Build and maintain a full health and wellness profile
-    fontawesome_icon_name                 : magic
+  - title                                 : Family Health Profiles
+    description                           : Keep separate health records for each child or family member while managing everything in one simple app.
+    fontawesome_icon_name                 : fa-users
     
-  - title                                 : Add the whole family
-    description                           : A large family, young children, grandparents? Add them all to your profile to keep tabs on their health.
-    fontawesome_icon_name                 : mobile
+  - title                                 : All Health Records in One Place
+    description                           : Record ever bump or scrape with tags to track at home treatments and pictures for extra detail, in case the doctor asks.
+    fontawesome_icon_name                 : fa-folder-medical
 
-  - title                                 : Record appointments and doctors diagnoses
-    description                           : Keep a detailed history of your families medical visits as well as any diagnoses
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Medication Management
+    description                           : Create and manage medications with dosage details and a full history so nothing gets forgotten.
+    fontawesome_icon_name                 : fa-pills
 
-  - title                                 : Record growth metrics and other health items
-    description                           : Keep tabs on your childrens important growth metrics or keep logs on blood pressure, hearing and eye sight
-    fontawesome_icon_name                 : sync
+  - title                                 : Growth & Development Tracking
+    description                           : Log height, weight, and other health metrics to monitor progress over time with clear visual trends.
+    fontawesome_icon_name                 : fa-chart-line
 
-  - title                                 : Create and Save medications
-    description                           : Keep a full list of medications and record when and how much was taken
-    fontawesome_icon_name                 : adjust
+  - title                                 : Symptom & Temperature Logs
+    description                           : Track symptoms, fevers, and other health signals to spot patterns and share accurate information with doctors.
+    fontawesome_icon_name                 : fa-thermometer-half
   
-  - title                                 : Record symptoms and their severity
-    description                           : 
+  - title                                 : Appointment History and Diagnoses
+    description                           : Record details of medical visits with tags to track tests performed, samples taken or medication prescribed.
     fontawesome_icon_name                 : star
 
   - title                                 : # New Feature Title
