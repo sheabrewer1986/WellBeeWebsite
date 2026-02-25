@@ -52,7 +52,7 @@ features                                  :
 
   - title                                 : Growth & Development Tracking
     description                           : Log height, weight, and other health metrics to monitor progress over time with clear visual trends.
-    fontawesome_icon_name                 : chart-column
+    fontawesome_icon_name                 : fa-chart-column
 
   - title                                 : Symptom & Temperature Logs
     description                           : Track symptoms, fevers, and moods to stay on top of your child’s wellbeing.
@@ -90,8 +90,8 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#f6d65a"
-feature_icons_background_color            : "#ffffff"
+feature_icons_foreground_color            : "#fffff"
+feature_icons_background_color            : "#f6d65"
 
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
