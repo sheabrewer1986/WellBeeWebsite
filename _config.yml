@@ -3,17 +3,17 @@ page_title                                :                                     
 
 # App Info
 ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
-ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+ios_app_country                           : gb                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Write a short tagline for your app.
+app_description                           : Organise and monitor your familys health and well being so when illness strikes ... you strike right back.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -40,27 +40,27 @@ features                                  :
 
   - title                                 : Family Health Profiles
     description                           : Keep separate health records for each child or family member while managing everything in one simple app.
-    fontawesome_icon_name                 : fa-users
-    
-  - title                                 : All Health Records in One Place
-    description                           : Record ever bump or scrape with tags to track at home treatments and pictures for extra detail, in case the doctor asks.
-    fontawesome_icon_name                 : fa-folder-medical
+    fontawesome_icon_name                 : book-medical
 
-  - title                                 : Medication Management
+  - title                                 : Smart Medication Management
     description                           : Create and manage medications with dosage details and a full history so nothing gets forgotten.
-    fontawesome_icon_name                 : fa-pills
+    fontawesome_icon_name                 : pills
+    
+  - title                                 : Every Ouch, logged
+    description                           : Keep track of every bump or scrape with notes, photos and tags for home treatments adminsitered.
+    fontawesome_icon_name                 : bandage
 
   - title                                 : Growth & Development Tracking
     description                           : Log height, weight, and other health metrics to monitor progress over time with clear visual trends.
-    fontawesome_icon_name                 : fa-chart-line
+    fontawesome_icon_name                 : chart-column
 
   - title                                 : Symptom & Temperature Logs
-    description                           : Track symptoms, fevers, and other health signals to spot patterns and share accurate information with doctors.
-    fontawesome_icon_name                 : fa-thermometer-half
+    description                           : Track symptoms, fevers, and moods to stay on top of your child’s wellbeing.
+    fontawesome_icon_name                 : thermometer-half
   
-  - title                                 : Appointment History and Diagnoses
-    description                           : Record details of medical visits with tags to track tests performed, samples taken or medication prescribed.
-    fontawesome_icon_name                 : star
+  - title                                 : Appointment History & Diagnoses
+    description                           : Log hospital visits and diagnoses, with tags for tests, scans and medications administered
+    fontawesome_icon_name                 : hospital
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
@@ -81,7 +81,7 @@ device_color                              : black                               
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#1d63ea"
+link_color                                : "#F6D65A"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
@@ -90,7 +90,7 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
+feature_icons_foreground_color            : "#F6D65A"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"
