@@ -1,5 +1,5 @@
 #page title
-page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : WellBee                                   # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : null                                      # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -48,7 +48,7 @@ features                                  :
     
   - title                                 : Every Ouch, Logged
     description                           : Keep track of every bump or scrape with notes, photos and tags for home treatments adminsitered.
-    fontawesome_icon_name                 : person-falling
+    fontawesome_icon_name                 : crutch
 
   - title                                 : Growth & Development Tracking
     description                           : Log height, weight, and other health metrics to monitor progress over time with clear visual trends.
@@ -75,7 +75,7 @@ topbar_title_color                        : "#ffffff"
 
 cover_image                               : ""                                        # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#f6d65a"
-cover_overlay_transparency                : 1.0
+cover_overlay_transparency                : 0.8
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
