@@ -1,60 +1,114 @@
 ---
 layout: page
 title: Privacy Policy
-include_in_header: false
+include_in_header: true
 ---
 
 **Last updated**  
-August 1 2019
+February 27 2026
 
 # Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+At WellBee, privacy is our highest priority. The content you create in the app may include highly sensitive personal information and is for your eyes only.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
-
-<br>
-
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
-
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
-
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+By using WellBee you accept this privacy policy.
 
 <br>
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+### Minimum Age Requirement
+The main account holder of WellBee must be at least 18 years of age. By creating a main account, you confirm that you meet this minimum age requirement.
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+WellBee may be used by families and caregivers to record information relating to children under 18, but all such data is created and stored locally on the user’s device and is not collected, accessed, or transmitted by us.
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+### Effective Scope
+This policy is intended to comply with applicable data protection laws, including GDPR and UK GDPR where applicable.
 
-<br>
+## What WellBee Collects
+WellBee does not collect or access personal data created within the app.
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
-
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
-
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+Should this change in future versions, we will detail how and why we do so, in this section of the privacy policy.
 
 <br>
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+### Mailing Lists
+If you sign up to the WellBee mailing list with your email address, we will only ever use it to contact you about news, information and updates that pertain to the WellBee ecosystem.
+
+This information will never be passed on or sold to a third party for profit.
+
+We retain mailing list email addresses only as long as you remain subscribed. Once you unsubscribe, your email is deleted within a reasonable timeframe and any backups are securely removed.
+
+### Analytics
+WellBee does not currently track any anonymous statistics about your app usage.
+
+Should this ever change down the line, we will detail how and why it is necessary, in this section of the privacy policy.
 
 <br>
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+### Ads
+We do not, nor will we ever, collect any of your personal information in order to serve you personalised ads. Third party ads have no place within the WellBee ecosystem. This is true whether you are a free or premium user.
+
+<br>
+
+## How Your Information is Used
+WellBee does not access, collect, or use any personal data created within the app. All information you enter into WellBee is stored locally on your device and is used solely to provide the app’s functionality to you.
+
+We do not use in-app data for analytics, profiling, advertising, or any other secondary purposes.
+
+Where you choose to provide personal data to us outside of the app, such as by subscribing to the WellBee mailing list, that information is used only for the purpose for which it was provided, including sending product updates, news, and information relating to the WellBee ecosystem.
+
+We do not use personal data for automated decision-making or profiling, and we do not share personal data with third parties for advertising or marketing purposes.
+
+<br>
+
+## How We Protect Your Information
+WellBee is designed so that all information you create within the app is stored locally on your device. This data is not transmitted to us, accessed by us, or stored on any WellBee-controlled servers.
+
+Data stored within the app benefits from the security measures provided by your device’s operating system, including application sandboxing and system-level protections such as device encryption and access controls.
+
+Where personal data is provided to us outside of the app, such as when you subscribe to our mailing list, we take reasonable and appropriate technical and organisational measures to protect that data from unauthorised access, loss, misuse, or disclosure. This includes limiting access to such data and relying on reputable third-party service providers with their own security and compliance measures in place.
+
+While we take reasonable steps to protect personal data, no method of storage or transmission can be guaranteed to be completely secure. You are responsible for maintaining the security of your device and any access credentials associated with it.
+
+### Your Rights
+Because all data created within WellBee is stored locally on your device and is not collected or accessed by us, we do not have the ability to view, access, or export that data on your behalf.
+
+You remain in full control of all data stored within the app. You may delete your data at any time by deleting entries within the app or by deleting the app itself. When you delete your main account on your device, all associated data will be permanently removed from that device.
+
+Where personal data is provided to us outside of the app, such as when you subscribe to our mailing list, you have the right to:
+
+Request access to the personal data we hold about you
+Request correction or deletion of that data
+Withdraw your consent at any time by unsubscribing or contacting us
+
+If you believe that your data protection rights have been infringed, you also have the right to lodge a complaint with your local data protection authority.
+
+Residents of U.S. states with privacy laws granting additional rights may exercise those rights by contacting us at helpdesk@well-bee.co.uk.
+
+### Legal Basis for Processing
+WellBee does not collect or process any personal data through the app itself. All information created within the app is stored locally on the user’s device and remains under the user’s control.
+
+Where personal data is provided to us outside of the app, such as when you voluntarily subscribe to our mailing list, we process that data on the basis of your consent. You may withdraw this consent at any time by unsubscribing or by contacting us directly.
+
+Any limited processing required to operate our website, distribute the app via the App Store, or comply with legal obligations is carried out on the basis of legitimate interests or legal necessity.
+
+### International Data Transfers
+WellBee does not transfer or store any personal data from the app on its own servers. All data created within the app remains stored locally on your device.
+
+If you choose to provide personal data to us outside of the app, such as by subscribing to our mailing list, that data may be processed by third-party service providers located in countries other than your own.
+
+In such cases, we take reasonable steps to ensure that appropriate safeguards are in place in accordance with applicable data protection laws.
+
+### Third-Party Service Disclosure
+Third-party service providers may process data for the purpose of delivering the app or sending emails, such as email platforms, hosting services, and app distribution platforms. They are bound to comply with applicable data protection laws.
+
+### Children's Privacy
+WellBee may be used by families and caregivers to record information relating to children. All such data is created and stored locally on the user’s device and is not collected, accessed, or transmitted by us.
+
+We do not knowingly collect personal data from children. If you believe that a child’s personal information has been provided to us outside of the app (for example, via our mailing list), please contact us and we will promptly delete it.
+
+## Future Changes
+We will most likely make changes to the privacy policy as time goes by. Please check back frequently to stay up to date with the privacy policy you are agreeing to by using our services.
+
+## Getting in Contact
+WellBee is operated solely by Shea Brewer.
+
+If you have any questions about the privacy policy or how your data is used or stored please feel free to contact us at helpdesk@well-bee.co.uk
