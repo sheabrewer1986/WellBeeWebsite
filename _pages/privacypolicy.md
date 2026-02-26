@@ -12,8 +12,6 @@ At WellBee, privacy is our highest priority. The content you create in the app m
 
 By using WellBee you accept this privacy policy.
 
-<br>
-
 ### Minimum Age Requirement
 The main account holder of WellBee must be at least 18 years of age. By creating a main account, you confirm that you meet this minimum age requirement.
 
@@ -22,12 +20,12 @@ WellBee may be used by families and caregivers to record information relating to
 ### Effective Scope
 This policy is intended to comply with applicable data protection laws, including GDPR and UK GDPR where applicable.
 
+<br>
+
 ## What WellBee Collects
 WellBee does not collect or access personal data created within the app.
 
 Should this change in future versions, we will detail how and why we do so, in this section of the privacy policy.
-
-<br>
 
 ### Mailing Lists
 If you sign up to the WellBee mailing list with your email address, we will only ever use it to contact you about news, information and updates that pertain to the WellBee ecosystem.
@@ -40,8 +38,6 @@ We retain mailing list email addresses only as long as you remain subscribed. On
 WellBee does not currently track any anonymous statistics about your app usage.
 
 Should this ever change down the line, we will detail how and why it is necessary, in this section of the privacy policy.
-
-<br>
 
 ### Ads
 We do not, nor will we ever, collect any of your personal information in order to serve you personalised ads. Third party ads have no place within the WellBee ecosystem. This is true whether you are a free or premium user.
@@ -68,7 +64,9 @@ Where personal data is provided to us outside of the app, such as when you subsc
 
 While we take reasonable steps to protect personal data, no method of storage or transmission can be guaranteed to be completely secure. You are responsible for maintaining the security of your device and any access credentials associated with it.
 
-### Your Rights
+<br>
+
+## Your Rights
 Because all data created within WellBee is stored locally on your device and is not collected or accessed by us, we do not have the ability to view, access, or export that data on your behalf.
 
 You remain in full control of all data stored within the app. You may delete your data at any time by deleting entries within the app or by deleting the app itself. When you delete your main account on your device, all associated data will be permanently removed from that device.
@@ -97,16 +95,24 @@ If you choose to provide personal data to us outside of the app, such as by subs
 
 In such cases, we take reasonable steps to ensure that appropriate safeguards are in place in accordance with applicable data protection laws.
 
-### Third-Party Service Disclosure
+<br>
+
+## Third-Party Service Disclosure
 Third-party service providers may process data for the purpose of delivering the app or sending emails, such as email platforms, hosting services, and app distribution platforms. They are bound to comply with applicable data protection laws.
 
-### Children's Privacy
+<br>
+
+## Children's Privacy
 WellBee may be used by families and caregivers to record information relating to children. All such data is created and stored locally on the user’s device and is not collected, accessed, or transmitted by us.
 
 We do not knowingly collect personal data from children. If you believe that a child’s personal information has been provided to us outside of the app (for example, via our mailing list), please contact us and we will promptly delete it.
 
+<br>
+
 ## Future Changes
 We will most likely make changes to the privacy policy as time goes by. Please check back frequently to stay up to date with the privacy policy you are agreeing to by using our services.
+
+<br>
 
 ## Getting in Contact
 WellBee is operated solely by Shea Brewer.
