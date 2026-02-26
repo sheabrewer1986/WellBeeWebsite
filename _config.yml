@@ -2,8 +2,8 @@
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
-ios_app_country                           : gb                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+ios_app_id                                : null                                      # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_country                           : null                                      # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
@@ -40,7 +40,7 @@ features                                  :
 
   - title                                 : Family Health Profiles
     description                           : Keep separate health records for each child or family member while managing everything in one simple app.
-    fontawesome_icon_name                 : book-medical
+    fontawesome_icon_name                 : notes-medical
 
   - title                                 : Smart Medication Management
     description                           : Create and manage medications with dosage details and a full history so nothing gets forgotten.
@@ -48,11 +48,11 @@ features                                  :
     
   - title                                 : Every Ouch, Logged
     description                           : Keep track of every bump or scrape with notes, photos and tags for home treatments adminsitered.
-    fontawesome_icon_name                 : bandage
+    fontawesome_icon_name                 : person-falling
 
   - title                                 : Growth & Development Tracking
     description                           : Log height, weight, and other health metrics to monitor progress over time with clear visual trends.
-    fontawesome_icon_name                 : fa-chart-column
+    fontawesome_icon_name                 : ruler
 
   - title                                 : Symptom & Temperature Logs
     description                           : Track symptoms, fevers, and moods to stay on top of your child’s wellbeing.
@@ -60,7 +60,7 @@ features                                  :
   
   - title                                 : Appointment History & Diagnoses
     description                           : Log hospital visits and diagnoses, with tags for tests, scans and medications administered
-    fontawesome_icon_name                 : hospital
+    fontawesome_icon_name                 : stethoscope
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
