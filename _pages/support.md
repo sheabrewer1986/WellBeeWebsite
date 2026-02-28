@@ -16,9 +16,11 @@ As a father to young children I also believe that privacy is of the utmost impor
 
 The goal with WellBee is simple: keep important health information structured, accessible, and easy to understand whenever you need it, with privacy at the forefront.
 
----
+<br>
 
-## Contact & Support
+## Stay up to date with everything WellBee
+
+Be the first to know when new features, improvements, and important updates arrive. Join the WellBee mailing list to receive occasional emails designed to help you get the most out of managing your family’s health and wellbeing — with no spam and no unnecessary messages.
 
 <form action="https://well-bee.us16.list-manage.com/subscribe/post?u=a35d8b92b22cd2856cc48caf7&amp;id=2c863d2a6b" 
       method="post" target="_blank" style="max-width:400px;">
@@ -47,6 +49,11 @@ The goal with WellBee is simple: keep important health information structured, a
          style="background:#f6d65a; color:#ffffff; border:none; padding:10px 20px; border-radius:4px; cursor:pointer;">
 </form>
 
+
+By entering your email address, you agree to receive occasional emails from WellBee about app updates, new features, and related news. You can unsubscribe at any time using the link in our emails. We respect your privacy and will only use your information for these communications.
+
+## Help & Support
+
 If you need assistance, want to report a bug, or have feedback, you can reach support using one of the methods below.
 
 | Email Address | When to Use |
@@ -54,9 +61,7 @@ If you need assistance, want to report a bug, or have feedback, you can reach su
 | helpdesk@well-bee.co.uk | Support requests, bug reports, account questions |
 | feedback@well-bee.co.uk | Provide any positive or negative feedback about the app |
 
----
-
-## When Contacting Support
+### When Contacting Support
 
 Please include:
 
@@ -66,8 +71,6 @@ Please include:
 - Description of the issue
 - Screenshots if applicable
 
----
-
-## Response Time
+### Response Time
 
 Most enquiries receive a response within 1–2 business days.
