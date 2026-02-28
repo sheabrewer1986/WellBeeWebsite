@@ -41,7 +41,7 @@ Be the first to know when new features, improvements, and important updates arri
   </div>
 
   <div style="margin-bottom:10px; font-size:12px; color:#555;">
-    You can unsubscribe at any time. We use Mailchimp as our marketing platform. 
+    We use Mailchimp as our marketing platform. 
     <a href="https://mailchimp.com/legal/terms" target="_blank">Learn more</a>.
   </div>
 
