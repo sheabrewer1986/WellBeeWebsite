@@ -26,34 +26,36 @@ The goal with WellBee is simple: keep important health information structured, a
 
 Be the first to know when new features, improvements, and important updates arrive. Join the WellBee mailing list to receive occasional emails designed to help you get the most out of managing your family’s health and wellbeing — with no spam and no unnecessary messages.
 
-<form action="https://well-bee.us16.list-manage.com/subscribe/post?u=a35d8b92b22cd2856cc48caf7&amp;id=2c863d2a6b" 
-      method="post" target="_blank" style="max-width:400px;">
-  
-  <div style="margin-bottom:10px;">
-    <label for="mce-EMAIL">Email Address <span style="color:red;">*</span></label><br>
-    <input type="email" name="EMAIL" id="mce-EMAIL" required
-           style="width:100%; padding:8px; margin-top:4px; border:1px solid #ccc; border-radius:4px;">
-  </div>
+<div style="border: 2px solid #f6d65a; padding: 20px; border-radius: 8px; max-width: 400px;">
+  <form action="https://well-bee.us16.list-manage.com/subscribe/post?u=a35d8b92b22cd2856cc48caf7&amp;id=2c863d2a6b" 
+        method="post" target="_blank">
+        
+   <div style="margin-bottom:10px;">
+      <label for="mce-EMAIL">Email Address <span style="color:red;">*</span></label><br>
+      <input type="email" name="EMAIL" id="mce-EMAIL" required
+             style="width:100%; padding:8px; margin-top:4px; border:1px solid #ccc; border-radius:4px;">
+   </div>
 
-  <div style="margin-bottom:10px;">
-    <fieldset style="border:none; padding:0;">
-      <label>
-        <input type="checkbox" name="gdpr[28419]" value="Y" required>
-        I consent to receive marketing emails from WellBee.
-      </label>
-    </fieldset>
-  </div>
+   <div style="margin-bottom:10px;">
+      <fieldset style="border:none; padding:0;">
+        <label>
+          <input type="checkbox" name="gdpr[28419]" value="Y" required>
+          I consent to receive marketing emails from WellBee.
+        </label>
+      </fieldset>
+   </div>
 
-  <div style="margin-bottom:10px; font-size:12px; color:#555;">
-    We use Mailchimp as our marketing platform. 
-    <a href="https://mailchimp.com/legal/terms" target="_blank">Learn more</a>.
-  </div>
-
-  <input type="submit" value="Subscribe"
-         style="background:#f6d65a; color:#ffffff; border:none; padding:10px 20px; border-radius:4px; cursor:pointer;">
-</form>
+   <input type="submit" value="Subscribe"
+           style="background:#f6d65a; color:#ffffff; border:none; padding:10px 20px; border-radius:4px; cursor:pointer;">
+           
+   <div style="margin-top:10px; font-size:12px; color:#555;">
+      We use Mailchimp as our marketing platform. 
+      <a href="https://mailchimp.com/legal/terms" target="_blank">Learn more</a>.
+   </div>
+  </form>
+</div>
 <br>
-By entering your email address, you agree to receive occasional emails from WellBee about app updates, new features, and related news. You can unsubscribe at any time using the link in our emails. We respect your privacy and will only use your information for these communications.
+You can unsubscribe at any time using the link in our emails. We respect your privacy and will only use your information for WellBee related communications.
 
 <br>
 
