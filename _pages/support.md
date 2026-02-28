@@ -20,82 +20,32 @@ The goal with WellBee is simple: keep important health information structured, a
 
 ## Contact & Support
 
-<div id="mc_embed_signup">
-  <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
-  <style type="text/css">
-    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
-    #mc-embedded-subscribe-form input[type=checkbox]{display:inline; width:auto; margin-right:10px;}
-    #mergeRow-gdpr {margin-top:20px;}
-    #mergeRow-gdpr fieldset label {font-weight: normal;}
-    #mc-embedded-subscribe-form .mc_fieldset{border:none; min-height:0px; padding-bottom:0px;}
+<form action="https://well-bee.us16.list-manage.com/subscribe/post?u=a35d8b92b22cd2856cc48caf7&amp;id=2c863d2a6b" 
+      method="post" target="_blank" style="max-width:400px;">
+  
+  <div style="margin-bottom:10px;">
+    <label for="mce-EMAIL">Email Address <span style="color:red;">*</span></label><br>
+    <input type="email" name="EMAIL" id="mce-EMAIL" required
+           style="width:100%; padding:8px; margin-top:4px; border:1px solid #ccc; border-radius:4px;">
+  </div>
 
-    /* Subscribe button style */
-    #mc-embedded-subscribe {
-      background-color: #f6d65a !important;
-      color: #ffffff !important;
-      border: none;
-      border-radius: 4px;
-      padding: 10px 20px;
-      font-size: 16px;
-      cursor: pointer;
-    }
-    #mc-embedded-subscribe:hover {
-      opacity: 0.85;
-    }
-  </style>
+  <div style="margin-bottom:10px;">
+    <fieldset style="border:none; padding:0;">
+      <label>
+        <input type="checkbox" name="gdpr[28419]" value="Y" required>
+        I consent to receive marketing emails from WellBee.
+      </label>
+    </fieldset>
+  </div>
 
-  <form action="https://well-bee.us16.list-manage.com/subscribe/post?u=a35d8b92b22cd2856cc48caf7&amp;id=2c863d2a6b" 
-        method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
-    
-    <h2>Stay updated with WellBee</h2>
-    <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-    
-    <div class="mc-field-group">
-      <label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label>
-      <input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required value="">
-      <span id="mce-EMAIL-HELPERTEXT" class="helper_text">Please enter your email address</span>
-    </div>
-    
-    <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
-      <div class="content__gdpr">
-        <label>Marketing Permissions</label>
-        <p>By checking the box below you consent to receive marketing emails from WellBee about app updates, new features, and related news.</p>
-        <fieldset class="mc_fieldset gdprRequired mc-field-group">
-          <label class="checkbox subfield" for="gdpr_28419">
-            <input type="checkbox" id="gdpr_28419" name="gdpr[28419]" class="gdpr" value="Y" required>
-            <span>I consent</span>
-          </label>
-        </fieldset>
-        <p>You can unsubscribe at any time by clicking the link in the footer of our emails.</p>
-      </div>
-      <div class="content__gdprLegal">
-        <p>We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. <a href="https://mailchimp.com/legal/terms">Learn more</a>.</p>
-      </div>
-    </div>
+  <div style="margin-bottom:10px; font-size:12px; color:#555;">
+    You can unsubscribe at any time. We use Mailchimp as our marketing platform. 
+    <a href="https://mailchimp.com/legal/terms" target="_blank">Learn more</a>.
+  </div>
 
-    <div id="mce-responses" class="clear foot">
-      <div class="response" id="mce-error-response" style="display: none;"></div>
-      <div class="response" id="mce-success-response" style="display: none;"></div>
-    </div>
-
-    <div aria-hidden="true" style="position: absolute; left: -5000px;">
-      <input type="text" name="b_a35d8b92b22cd2856cc48caf7_2c863d2a6b" tabindex="-1" value="">
-    </div>
-
-    <div class="clear foot">
-      <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe">
-    </div>
-
-  </form>
-</div>
-
-<script src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
-<script>
-  (function($){
-    window.fnames=[]; window.ftypes=[]; fnames[0]='EMAIL'; ftypes[0]='email';
-  }(jQuery));
-  var $mcj = jQuery.noConflict(true);
-</script>
+  <input type="submit" value="Subscribe"
+         style="background:#f6d65a; color:#ffffff; border:none; padding:10px 20px; border-radius:4px; cursor:pointer;">
+</form>
 
 If you need assistance, want to report a bug, or have feedback, you can reach support using one of the methods below.
 
