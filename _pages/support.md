@@ -7,9 +7,7 @@ include_in_header: false
 # Support
 
 Welcome to the WellBee Help & Support Center. Here you can learn about our company philosophy, sign up for our email list, and find help with any issues you may be experiencing in the WellBee app.
-
 <br>
-
 ## About WellBee
 
 Hi there, this is Shea Brewer from WellBee. I am a father to 3 lovely children (most of the time) with a dog, some hamsters and a parrot to boot. Looking after such a large family, whilst wholly rewarding, can also be a very challenging task, especially when health comes into the equation.
@@ -19,9 +17,7 @@ This is where WellBee came into Bee-ing. WellBee is a passion project of mine th
 As a father to young children I also believe that privacy is of the utmost importance and this belief forms the very foundations of WellBee. The content that you create in this app is, or may contain, highly sensitive and personal information about you and your loved ones. As such, this information is for your eyes only.
 
 The goal with WellBee is simple: keep important health information structured, accessible, and easy to understand whenever you need it, with privacy at the forefront.
-
 <br>
-
 ## Stay up to date with everything WellBee
 
 Be the first to know when new features, improvements, and important updates arrive. Join the WellBee mailing list to receive occasional emails designed to help you get the most out of managing your family’s health and wellbeing — with no spam and no unnecessary messages.
@@ -52,12 +48,9 @@ Be the first to know when new features, improvements, and important updates arri
   <input type="submit" value="Subscribe"
          style="background:#f6d65a; color:#ffffff; border:none; padding:10px 20px; border-radius:4px; cursor:pointer;">
 </form>
-
-
-By entering your email address, you agree to receive occasional emails from WellBee about app updates, new features, and related news. You can unsubscribe at any time using the link in our emails. We respect your privacy and will only use your information for these communications.
-
 <br>
-
+By entering your email address, you agree to receive occasional emails from WellBee about app updates, new features, and related news. You can unsubscribe at any time using the link in our emails. We respect your privacy and will only use your information for these communications.
+<br>
 ## Help & Support
 
 If you need assistance, want to report a bug, or have feedback, you can reach support using one of the methods below.
