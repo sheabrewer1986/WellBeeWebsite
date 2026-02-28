@@ -6,6 +6,10 @@ include_in_header: false
 
 # Support
 
+Welcome to the WellBee Help & Support Center. Here you can learn about our company philosophy, sign up for our email list, and find help with any issues you may be experiencing in the WellBee app.
+
+<br>
+
 ## About WellBee
 
 Hi there, this is Shea Brewer from WellBee. I am a father to 3 lovely children (most of the time) with a dog, some hamsters and a parrot to boot. Looking after such a large family, whilst wholly rewarding, can also be a very challenging task, especially when health comes into the equation.
@@ -51,6 +55,8 @@ Be the first to know when new features, improvements, and important updates arri
 
 
 By entering your email address, you agree to receive occasional emails from WellBee about app updates, new features, and related news. You can unsubscribe at any time using the link in our emails. We respect your privacy and will only use your information for these communications.
+
+<br>
 
 ## Help & Support
 
