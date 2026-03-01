@@ -4,7 +4,7 @@ title: What's New
 include_in_header: true
 ---
 
-# Changelog
+# What's New
 This page tracks the evolution of the app, WellBee, over time. Here you’ll find a complete record of updates — from small refinements and bug fixes to major feature releases — so you can see exactly what’s changed in each version.
 
 We regularly improve performance, polish existing features, and introduce new tools based on real user needs. Check back anytime to stay up to date with the latest improvements.
