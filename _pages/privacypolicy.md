@@ -23,14 +23,10 @@ This policy is intended to comply with applicable data protection laws, includin
 <br>
 
 ## What WellBee Collects
-WellBee does not collect or access personal data created within the app.
+WellBee is designed to collect only the information necessary to provide its core features and improve user communication.
 
-Should this change in future versions, we will detail how and why we do so, in this section of the privacy policy.
-
-### Mailing Lists
-If you sign up to the WellBee mailing list with your email address, we will only ever use it to contact you about news, information and updates that pertain to the WellBee ecosystem.
-
-This information will never be passed on or sold to a third party for profit.
+### Email communications
+If you choose to join our mailing list, your email address is collected and processed using MailChimp, our email marketing provider. This information is used solely to send WellBee updates, feature announcements, and related news. You can unsubscribe at any time using the unsubscribe link included in every email.
 
 We retain mailing list email addresses only as long as you remain subscribed. Once you unsubscribe, your email is deleted within a reasonable timeframe and any backups are securely removed.
 
@@ -99,6 +95,8 @@ In such cases, we take reasonable steps to ensure that appropriate safeguards ar
 
 ## Third-Party Service Disclosure
 Third-party service providers may process data for the purpose of delivering the app or sending emails, such as email platforms, hosting services, and app distribution platforms. They are bound to comply with applicable data protection laws.
+
+When you subscribe to email updates, your email address is processed by MailChimp to send newsletters, app updates, and related communications. You can unsubscribe at any time using the link in these emails.
 
 <br>
 
