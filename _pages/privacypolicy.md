@@ -118,4 +118,4 @@ We will most likely make changes to the privacy policy as time goes by. Please c
 ## Getting in Contact
 WellBee is operated solely by Shea Brewer.
 
-If you have any questions about the privacy policy or how your data is used or stored please feel free to contact us at helpdesk@well-bee.co.uk
+If you have any questions about the privacy policy or how your data is used or stored please feel free to contact us at [helpdesk@well-bee.co.uk](mailto:helpdesk@well-bee.co.uk?subject=WellBee%20Support%20Request)
