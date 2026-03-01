@@ -65,8 +65,8 @@ If you need assistance, want to report a bug, or have feedback, you can reach su
 
 | Email Address | When to Use |
 |--------|-------------|
-| helpdesk@well-bee.co.uk | Support requests, bug reports, account questions |
-| feedback@well-bee.co.uk | Provide any positive or negative feedback about the app |
+| [helpdesk@well-bee.co.uk](mailto:helpdesk@well-bee.co.uk?subject=WellBee%20Support%20Request) | Support requests, bug reports, account questions |
+| [feedback@well-bee.co.uk](mailto:feedback@well-bee.co.uk?subject=WellBee%20App%20Feedback) | Provide any positive or negative feedback about the app |
 
 ### When Contacting Support
 
