@@ -84,6 +84,9 @@ Where personal data is provided to us outside of the app, such as when you volun
 
 Any limited processing required to operate our website, distribute the app via the App Store, or comply with legal obligations is carried out on the basis of legitimate interests or legal necessity.
 
+### GDPR Compliance
+WellBee collects personal data such as email addresses solely for sending app updates, newsletters, and related communications via MailChimp. All data is stored securely, processed in compliance with applicable data protection laws, and is never shared with third parties outside our service providers. Users can withdraw consent or unsubscribe at any time using the links provided in our emails.
+
 ### International Data Transfers
 WellBee does not transfer or store any personal data from the app on its own servers. All data created within the app remains stored locally on your device.
 
