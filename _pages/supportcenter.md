@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Support
+title: Support Center
 include_in_header: false
 ---
 
-# Support
+# Support Center
 
 Welcome to the WellBee Help & Support Center. Here you can learn about our company philosophy, sign up for our email list, and find help with any issues you may be experiencing in the WellBee app.
 
@@ -25,6 +25,7 @@ The goal with WellBee is simple: keep important health information structured, a
 ## Stay up to date with everything WellBee
 
 Be the first to know when new features, improvements, and important updates arrive. Join the WellBee mailing list to receive occasional emails designed to help you get the most out of managing your family’s health and wellbeing — with no spam and no unnecessary messages.
+
 <br>
 <div style="border: 2px solid #f6d65a; padding: 20px; border-radius: 8px">
   <form action="https://well-bee.us16.list-manage.com/subscribe/post?u=a35d8b92b22cd2856cc48caf7&amp;id=2c863d2a6b" 
@@ -55,6 +56,7 @@ Be the first to know when new features, improvements, and important updates arri
   </form>
 </div>
 <br>
+
 You can unsubscribe at any time using the link in our emails. We respect your privacy and will only use your information for WellBee related communications.
 
 <br>
