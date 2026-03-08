@@ -602,7 +602,27 @@ nav > ul li a:active {
 	
 } 
 
+// Waiting List
+.waitlistSection {
+    width: 100%;
+    padding: 80px 20px;
+    text-align: center;
+}
 
+.waitlistContainer {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.waitlistContainer input {
+    padding: 12px;
+    width: 70%;
+    margin-right: 10px;
+}
+
+.waitlistContainer button {
+    padding: 12px 20px;
+}
 
 // Footer
 
