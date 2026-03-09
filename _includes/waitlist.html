@@ -1,27 +1,28 @@
 <section class="waitlist">
 
-<div style="border: 2px solid #f6d65a; padding: 20px; border-radius: 8px">
-  <h2>Launching soon. Join the Waiting List to be first in line.</h2>
+<div class="waitlistBox">
+
+  <h1 class="waitlistTitle">Launching Soon</h1>
+  <p class="waitlistSubtitle">Join the waiting list to be first in line.</p>
+
   <form action="https://well-bee.us16.list-manage.com/subscribe/post?u=a35d8b92b22cd2856cc48caf7&amp;id=2c863d2a6b" 
         method="post" target="_blank">
-        
-   <div style="margin-bottom:10px;">
-      <label for="mce-EMAIL">Email Address <span style="color:red;">*</span></label><br>
-      <input type="email" name="EMAIL" id="mce-EMAIL" required
-             style="width:100%; padding:8px; margin-top:4px; border:1px solid #ccc; border-radius:4px;">
-   </div>
 
-   <div style="margin-bottom:10px;">
-      <fieldset style="border:none; padding:0;">
-        <label>
-          <input type="checkbox" name="gdpr[28419]" value="Y" required>
-          I consent to receive marketing emails from WellBee.
-        </label>
-      </fieldset>
-   </div>
+    <div class="waitlistField">
+      <label for="mce-EMAIL">Email Address <span class="required">*</span></label>
+      <input type="email" name="EMAIL" id="mce-EMAIL" required>
+    </div>
 
-   <input type="submit" value="Subscribe"
-           style="background:#f6d65a; color:#ffffff; border:none; padding:10px 20px; border-radius:4px; cursor:pointer;">
+    <div class="waitlistConsent">
+      <label>
+        <input type="checkbox" name="gdpr[28419]" value="Y" required>
+        I consent to receive marketing emails from WellBee.
+      </label>
+    </div>
+
+    <button type="submit" class="waitlistButton">Subscribe</button>
+
   </form>
+
 </div>
 </section>
