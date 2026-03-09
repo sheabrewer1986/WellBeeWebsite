@@ -650,7 +650,7 @@ nav > ul li a:active {
 .waitlistForm {
     display: flex;
     flex-direction: column;
-   // gap: 20px;
+    //gap: 20px;
 }
 
 .waitlistField label {
@@ -661,9 +661,9 @@ nav > ul li a:active {
     color: red;
 }
 
-//.waitlistField {
-  //  margin-bottom: 5px;
-//}
+.waitlistField {
+    margin-bottom: 5px;
+}
 
 .waitlistField input {
     width: 100%;
