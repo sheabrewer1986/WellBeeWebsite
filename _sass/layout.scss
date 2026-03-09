@@ -629,6 +629,12 @@ nav > ul li a:active {
     padding: 12px 20px;
 }
 
+.waitlistForm {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
 .waitlistBox {
     border: 2px solid #f6d65a;
     border-radius: 8px;
