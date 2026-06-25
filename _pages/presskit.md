@@ -66,3 +66,7 @@ If you wish to get in contact please free to do so at [helpdesk@well-bee.co.uk](
 ## Download PressKit Assets
 
 All images, icons and related text files and couments are stored in the presskit.zip file for easier perusal. Please downlaod at your leisure.
+
+## Download Press Assets
+
+[Download Press Kit](assets/wellbee-press-kit.zip)
