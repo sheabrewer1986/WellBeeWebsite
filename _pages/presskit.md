@@ -70,4 +70,4 @@ All images, icons and related text files and couments are stored in the presskit
 
 ## Download Press Assets
 
-[Download Press Kit](assets/wellbee-press-kit.zip)
+[Download Press Kit](/assets/wellbee-press-kit.zip)
