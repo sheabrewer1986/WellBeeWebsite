@@ -47,7 +47,7 @@ If you wish to get in contact please free to do so at [helpdesk@well-bee.co.uk](
 
 ### App Factsheet
 
-| Email Address | When to Use |
+| Item | Value |
 |--------|-------------|
 | App Name: | WellBee |
 | Category: | Health & Fitness |
@@ -57,3 +57,4 @@ If you wish to get in contact please free to do so at [helpdesk@well-bee.co.uk](
 | Release Date: | TBD |
 | Pricing: | Free to Download. Premium Features can be unlocked for £2.99 per month or £24.99 per year |
 | Website: | https://www.well-bee.co.uk |
+| Email: | helpdesk@well-bee.co.uk |
