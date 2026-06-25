@@ -33,6 +33,7 @@ Not anymore. With WellBee: Family Health Diary by your side you can:
 WellBee: Family Health Diary is free to download and use but a premium subscription gives access to additional features such as:
 <br>
 <br>
+
 | Item | Free | Paid |
 |--------|--------|-------------|
 | Cost: | Free | £2.99 monthly or £24.99 yearly |
