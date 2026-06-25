@@ -19,6 +19,7 @@ When illness strikes at home, it can be tough to stay on top of everything. When
 
 Not anymore. With WellBee: Family Health Diary by your side you can:
 
+* Create health profiles for each member of your family
 * Track symptoms and their severity over time
 * Measure temperatures and see recent changes with historical charts
 * Record appointments and doctor diagnoses and schedule future appointments or recurring medications
@@ -28,3 +29,10 @@ Not anymore. With WellBee: Family Health Diary by your side you can:
 * Easily keep an eye on any ongoing issues and make quick updates as and when needed
 * Set individual or family based reminders so you never forget the important stuff
 * View all family data day by day or dig deeper to view individual timelines
+
+
+### About the Founder
+
+WellBee: Family Health Diary and it's parent company WELLBEE APP LTD is owned and operated by Shea Brewer, a father to 3 young children and a dog.
+
+If you wish to get in contact with me please free to do so at [helpdesk@well-bee.co.uk](mailto:helpdesk@well-bee.co.uk?subject=WellBee%20Support%20Request)
