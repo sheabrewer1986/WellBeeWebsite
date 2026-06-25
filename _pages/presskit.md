@@ -31,7 +31,6 @@ Not anymore. With WellBee: Family Health Diary by your side you can:
 * View all family data day by day or dig deeper to view individual timelines
 
 WellBee: Family Health Diary is free to download and use but a premium subscription gives access to additional features such as:
-<br>
 
 |  | Free | Paid |
 |--------|--------|-------------|
@@ -39,8 +38,6 @@ WellBee: Family Health Diary is free to download and use but a premium subscript
 | User Limit: | 3 Users | 10 Users |
 | Medications: | 5 medications | Unlimited medications |
 | Health Insights: | Basic | In depth |
-
-<br>
 
 ### App Factsheet
 
@@ -64,10 +61,10 @@ WellBee: Family Health Diary and it's parent company WELLBEE APP LTD is owned an
 
 If you wish to get in contact please free to do so at [helpdesk@well-bee.co.uk](mailto:helpdesk@well-bee.co.uk?subject=WellBee%20Support%20Request)
 
+<br>
+
 ## Download PressKit Assets
 
 All images, icons and related text files and couments are stored in the presskit.zip file for easier perusal. Please downlaod at your leisure.
-
-## Download Press Assets
 
 [Download Press Kit](https://www.well-bee.co.uk/assets/wellbee-press-kit.zip)
