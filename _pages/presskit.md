@@ -4,7 +4,7 @@ title: Press Kit
 include_in_header: false
 ---
 
-## Press Kit
+# Press Kit
 
 ### App Description and Feature List
 
@@ -30,9 +30,30 @@ Not anymore. With WellBee: Family Health Diary by your side you can:
 * Set individual or family based reminders so you never forget the important stuff
 * View all family data day by day or dig deeper to view individual timelines
 
+WellBee: Family Health Diary is free to download and use but a premium subscription gives access to additional features such as:
+
+| Item | Free | Paid |
+|--------|--------|-------------|
+| Cost: | Free | £2.99 monthly or £24.99 yearly |
+| User Limit: | 3 Users | 10 Users |
+| Medications: | 5 medications | Unlimited medications |
+| Health Insights: | Basic | In depth |
 
 ### About the Founder
 
 WellBee: Family Health Diary and it's parent company WELLBEE APP LTD is owned and operated by Shea Brewer, a father to 3 young children and a dog.
 
-If you wish to get in contact with me please free to do so at [helpdesk@well-bee.co.uk](mailto:helpdesk@well-bee.co.uk?subject=WellBee%20Support%20Request)
+If you wish to get in contact please free to do so at [helpdesk@well-bee.co.uk](mailto:helpdesk@well-bee.co.uk?subject=WellBee%20Support%20Request)
+
+### App Factsheet
+
+| Email Address | When to Use |
+|--------|-------------|
+| App Name: | WellBee |
+| Category: | Health & Fitness |
+| Platforms: | iPhone |
+| Operating System: | iOS 17 and later |
+| Developer: | WELLBEE APP LTD |
+| Release Date: | TBD |
+| Pricing: | Free to Download. Premium Features can be unlocked for £2.99 per month or £24.99 per year |
+| Website: | https://www.well-bee.co.uk |
