@@ -8,7 +8,7 @@ include_in_header: false
 
 ### App Description and Feature List
 
-WellBee: Family Health Diary is a family based health tracker that allows parents to track and manage the health and wellbeing of the entire family and view all the historical data in a simple but elegeant week based diary view.
+WellBee: Family Health Diary is a family based health tracker that allows parents to track and manage the health and wellbeing of the entire family and view all the historical data in a simple but elegant week based diary view.
 
 When illness strikes at home, it can be tough to stay on top of everything. When exhaustion creeps in you may start to ask yourself:
 
@@ -62,3 +62,7 @@ WellBee: Family Health Diary is free to download and use but a premium subscript
 WellBee: Family Health Diary and it's parent company WELLBEE APP LTD is owned and operated by Shea Brewer, a father to 3 young children and a dog.
 
 If you wish to get in contact please free to do so at [helpdesk@well-bee.co.uk](mailto:helpdesk@well-bee.co.uk?subject=WellBee%20Support%20Request)
+
+## Download PressKit Assets
+
+All images, icons and related text files and couments are stored in the presskit.zip file for easier perusal. Please downlaod at your leisure.
