@@ -40,14 +40,7 @@ WellBee: Family Health Diary is free to download and use but a premium subscript
 | User Limit: | 3 Users | 10 Users |
 | Medications: | 5 medications | Unlimited medications |
 | Health Insights: | Basic | In depth |
-
-
-### About the Founder
-
-WellBee: Family Health Diary and it's parent company WELLBEE APP LTD is owned and operated by Shea Brewer, a father to 3 young children and a dog.
-
-If you wish to get in contact please free to do so at [helpdesk@well-bee.co.uk](mailto:helpdesk@well-bee.co.uk?subject=WellBee%20Support%20Request)
-
+<br>
 
 ### App Factsheet
 
@@ -62,3 +55,10 @@ If you wish to get in contact please free to do so at [helpdesk@well-bee.co.uk](
 | Pricing: | Free to Download. Premium Features can be unlocked for £2.99 per month or £24.99 per year |
 | Website: | https://www.well-bee.co.uk |
 | Email: | helpdesk@well-bee.co.uk |
+<br>
+
+## About the Founder
+
+WellBee: Family Health Diary and it's parent company WELLBEE APP LTD is owned and operated by Shea Brewer, a father to 3 young children and a dog.
+
+If you wish to get in contact please free to do so at [helpdesk@well-bee.co.uk](mailto:helpdesk@well-bee.co.uk?subject=WellBee%20Support%20Request)
