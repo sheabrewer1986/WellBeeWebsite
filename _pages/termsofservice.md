@@ -4,9 +4,10 @@ title: Terms of Service
 include_in_header: false
 ---
 
-# WellBee Terms of Service
+# Terms of Service
 
-Effective Date: [1st August 2026]
+**Effective Date:** 
+1st August 2026
 
 ### 1. Introduction
 
@@ -18,6 +19,7 @@ By downloading, accessing, or using WellBee, you agree to be bound by these Term
 ### 2. Eligibility
 
 You may only use WellBee if you are legally able to enter into a binding agreement under the laws of your country.
+
 If you are under the age required to enter into such an agreement, you must have permission from a parent or legal guardian.
 
 ### 3. Description of WellBee
@@ -54,6 +56,7 @@ Always seek the advice of a qualified healthcare professional regarding any medi
 Never delay seeking medical advice because of information contained within WellBee.
 
 If you believe you are experiencing a medical emergency, contact your local emergency services immediately.
+
 You should independently verify all medication names, dosages, schedules and other health information before acting upon them.
 
 ### 5. Reminders and Scheduled Events
@@ -97,6 +100,7 @@ At the time these Terms take effect, WellBee stores your information locally on 
 You are responsible for safeguarding your device and any backups that may be available to you.
 
 If you uninstall the app, erase your device, or otherwise remove your locally stored data without first creating a backup (where available), your information may be permanently lost.
+
 Except where required by law, we are not responsible for the loss of locally stored data.
 
 ### 9. Premium Subscription
@@ -112,6 +116,7 @@ Except where required by law, we are not responsible for the loss of locally sto
 ### 10. Licence
 
 Subject to these Terms, we grant you a limited, non-exclusive, non-transferable, revocable licence to use WellBee solely for your personal, non-commercial use.
+
 This licence does not transfer ownership of the app or any intellectual property.
 
 ### 11. Acceptable Use
@@ -128,12 +133,14 @@ You agree not to:
 ### 12. Intellectual Property
 
 WellBee, including its design, branding, graphics, logos, software, text, icons and other content, is owned by us or our licensors and is protected by applicable intellectual property laws.
+
 Except as expressly permitted in these Terms, no rights are granted to you.
 
 ### 13. Privacy
 
 Your use of WellBee is also governed by our Privacy Policy.
 The Privacy Policy explains what information is collected, how it is used, and your rights regarding your information.
+
 By using WellBee, you acknowledge that we process your information in accordance with our Privacy Policy.
 
 ### 14. Availability
