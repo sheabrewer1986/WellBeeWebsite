@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Terms of Service
+title: Terms of Use
 include_in_header: false
 ---
 
-# Terms of Service
+# Terms of Use (EULA)
 
 **Effective Date:** 
-1st August 2026
+7th August 2026
 
 ### 1. Introduction
 
