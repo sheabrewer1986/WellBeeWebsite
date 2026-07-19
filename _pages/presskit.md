@@ -35,9 +35,8 @@ WellBee: Family Health Diary is free to download and use but a premium subscript
 |  | Free | Paid |
 |--------|--------|-------------|
 | Cost: | Free | £2.99 monthly or £24.99 yearly |
-| User Limit: | 3 Users | 10 Users |
+| User Limit: | 3 Users | 11 Users |
 | Medications: | 5 medications | Unlimited medications |
-| Health Insights: | Basic | In depth |
 
 ### App Factsheet
 
@@ -46,9 +45,9 @@ WellBee: Family Health Diary is free to download and use but a premium subscript
 | App Name: | WellBee |
 | Category: | Health & Fitness |
 | Platforms: | iPhone |
-| Operating System: | iOS 17 and later |
+| Operating System: | iOS 18 and later |
 | Developer: | WELLBEE APP LTD |
-| Release Date: | TBD |
+| Release Date: | 17th August 2026 |
 | Pricing: | Free to Download. Premium Features can be unlocked for £2.99 per month or £24.99 per year |
 | Website: | https://www.well-bee.co.uk |
 | Email: | helpdesk@well-bee.co.uk |
@@ -57,7 +56,7 @@ WellBee: Family Health Diary is free to download and use but a premium subscript
 
 ## About the Founder
 
-WellBee: Family Health Diary and it's parent company WELLBEE APP LTD is owned and operated by Shea Brewer, a father to 3 young children and a dog.
+WellBee: Family Health Diary and it's parent company WELLBEE APP LTD is owned and operated by Shea Brewer, a father to 3 children.
 
 If you wish to get in contact please free to do so at [helpdesk@well-bee.co.uk](mailto:helpdesk@well-bee.co.uk?subject=WellBee%20Support%20Request)
 
@@ -65,6 +64,6 @@ If you wish to get in contact please free to do so at [helpdesk@well-bee.co.uk](
 
 ## Download PressKit Assets
 
-All images, icons and related text files and couments are stored in the presskit.zip file for easier perusal. Please downlaod at your leisure.
+All images, icons and related text files and documents are stored in the presskit.zip file for easier perusal. Please downlaod at your leisure.
 
 [Download Press Kit](https://www.well-bee.co.uk/assets/wellbee-press-kit.zip)
