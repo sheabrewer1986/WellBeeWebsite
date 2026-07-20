@@ -47,7 +47,7 @@ WellBee: Family Health Diary is free to download and use but a premium subscript
 | Platforms: | iPhone |
 | Operating System: | iOS 18 and later |
 | Developer: | WELLBEE APP LTD |
-| Release Date: | 17th August 2026 |
+| Release Date: | 1st September 2026 |
 | Pricing: | Free to Download. Premium Features can be unlocked for £2.99 per month or £24.99 per year |
 | Website: | https://www.well-bee.co.uk |
 | Email: | helpdesk@well-bee.co.uk |
