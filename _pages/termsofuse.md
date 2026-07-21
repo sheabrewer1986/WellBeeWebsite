@@ -7,7 +7,7 @@ include_in_header: false
 # Terms of Use (EULA)
 
 **Effective Date:** 
-7th August 2026
+1st September 2026
 
 ### 1. Introduction
 
