@@ -36,7 +36,7 @@ WellBee: Family Health Diary is free to download and use but a premium subscript
 |--------|--------|-------------|
 | Cost: | Free | £2.99 monthly or £24.99 yearly |
 | User Limit: | 3 Users | 11 Users |
-| Medications: | 5 medications | Unlimited medications |
+| Medication Schedules: | 3 concurrent schedules | Unlimited concurrent schedules |
 
 ### App Factsheet
 
