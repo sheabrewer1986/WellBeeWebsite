@@ -6,11 +6,11 @@ include_in_header: false
 
 # Press Kit
 
-## TestFlight Link
+### TestFlight Link
 
 [Try WellBee on TestFlight](https://testflight.apple.com/join/cQJHcD7n)
 
-## Download PressKit Assets
+### Download PressKit Assets
 
 All images, icons and related text files and documents are stored in the presskit.zip file for easier perusal. Please downlaod at your leisure.
 
