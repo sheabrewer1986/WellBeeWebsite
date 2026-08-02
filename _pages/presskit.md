@@ -16,7 +16,22 @@ All images, icons and related text files and documents are stored in the presski
 
 [Download Press Kit](https://www.well-bee.co.uk/assets/wellbee-press-kit.zip)
 
-### App Description and Feature List
+### App Factsheet
+
+|  | Value |
+|--------|-------------|
+| App Name: | WellBee |
+| Category: | Health & Fitness |
+| Platforms: | iPhone |
+| Operating System: | iOS 18 and later |
+| Developer: | WELLBEE APP LTD |
+| Release Date: | 1st September 2026 |
+| Pricing: | Free to Download. Premium Features can be unlocked for £2.99 per month or £24.99 per year |
+| Website: | https://www.well-bee.co.uk |
+| Email: | helpdesk@well-bee.co.uk |
+<br>
+
+## App Description and Feature List
 
 WellBee: Family Health Diary is a family based health tracker that allows parents to track and manage the health and wellbeing of the entire family and view all the historical data in a simple but elegant week based diary view.
 
@@ -44,24 +59,8 @@ WellBee: Family Health Diary is free to download and use but a premium subscript
 
 |  | Free | Paid |
 |--------|--------|-------------|
-| Cost: | Free | £2.99 monthly or £24.99 yearly |
 | User Limit: | 3 Users | 11 Users |
 | Medication Schedules: | 3 concurrent schedules | Unlimited concurrent schedules |
-
-### App Factsheet
-
-|  | Value |
-|--------|-------------|
-| App Name: | WellBee |
-| Category: | Health & Fitness |
-| Platforms: | iPhone |
-| Operating System: | iOS 18 and later |
-| Developer: | WELLBEE APP LTD |
-| Release Date: | 1st September 2026 |
-| Pricing: | Free to Download. Premium Features can be unlocked for £2.99 per month or £24.99 per year |
-| Website: | https://www.well-bee.co.uk |
-| Email: | helpdesk@well-bee.co.uk |
-
 <br>
 
 ## About the Founder
