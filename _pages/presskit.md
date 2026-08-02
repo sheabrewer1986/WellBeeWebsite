@@ -8,7 +8,7 @@ include_in_header: false
 
 ### TestFlight Link
 
-[Try WellBee on TestFlight](https://testflight.apple.com/join/cQJHcD7n)
+[Try WellBee: Family Health Diary on TestFlight](https://testflight.apple.com/join/cQJHcD7n)
 
 ### Download PressKit Assets
 
