@@ -29,6 +29,7 @@ All images, icons and related text files and documents are stored in the presski
 | Pricing: | Free to Download. Premium Features can be unlocked for £2.99 per month or £24.99 per year |
 | Website: | https://www.well-bee.co.uk |
 | Email: | helpdesk@well-bee.co.uk |
+
 <br>
 
 ## App Description and Feature List
@@ -61,6 +62,7 @@ WellBee: Family Health Diary is free to download and use but a premium subscript
 |--------|--------|-------------|
 | User Limit: | 3 Users | 11 Users |
 | Medication Schedules: | 3 concurrent schedules | Unlimited concurrent schedules |
+
 <br>
 
 ## About the Founder
