@@ -32,11 +32,11 @@ All images, icons and related text files and documents are stored in the presski
 
 <br>
 
+## Who it’s for?
+
+Parents looking to manage the health and wellbeing of the whole family, especially young children.
+
 ## App Description and Feature List
-
-Who it’s for?
-
-Parents looking to manage the health and wellbeing of the whole family.
 
 WellBee: Family Health Diary is a family based health tracker that allows parents to track and manage the health and wellbeing of the entire family and view all the historical data in a simple but elegant week based diary view.
 
@@ -67,6 +67,7 @@ WellBee: Family Health Diary is free to download and use but a premium subscript
 | User Limit: | 3 Users | 11 Users |
 | Medication Schedules: | 3 concurrent schedules | Unlimited concurrent schedules |
 
+Premium subscription also includes access to all future Premium Features.
 <br>
 
 ## About the Founder
