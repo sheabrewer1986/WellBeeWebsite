@@ -6,6 +6,12 @@ include_in_header: false
 
 # Press Kit
 
+## Download PressKit Assets
+
+All images, icons and related text files and documents are stored in the presskit.zip file for easier perusal. Please downlaod at your leisure.
+
+[Download Press Kit](https://www.well-bee.co.uk/assets/wellbee-press-kit.zip)
+
 ### App Description and Feature List
 
 WellBee: Family Health Diary is a family based health tracker that allows parents to track and manage the health and wellbeing of the entire family and view all the historical data in a simple but elegant week based diary view.
@@ -59,11 +65,3 @@ WellBee: Family Health Diary is free to download and use but a premium subscript
 WellBee: Family Health Diary and it's parent company WELLBEE APP LTD is owned and operated by Shea Brewer, a father to 3 children.
 
 If you wish to get in contact please free to do so at [helpdesk@well-bee.co.uk](mailto:helpdesk@well-bee.co.uk?subject=WellBee%20Support%20Request)
-
-<br>
-
-## Download PressKit Assets
-
-All images, icons and related text files and documents are stored in the presskit.zip file for easier perusal. Please downlaod at your leisure.
-
-[Download Press Kit](https://www.well-bee.co.uk/assets/wellbee-press-kit.zip)
