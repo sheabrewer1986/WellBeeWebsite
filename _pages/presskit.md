@@ -20,7 +20,7 @@ All images, icons and related text files and documents are stored in the presski
 
 |  | Value |
 |--------|-------------|
-| App Name: | WellBee |
+| App Name: | WellBee: Family Health Diary |
 | Category: | Health & Fitness |
 | Platforms: | iPhone |
 | Operating System: | iOS 18 and later |
@@ -33,6 +33,10 @@ All images, icons and related text files and documents are stored in the presski
 <br>
 
 ## App Description and Feature List
+
+Who it’s for?
+
+Parents looking to manage the health and wellbeing of the whole family.
 
 WellBee: Family Health Diary is a family based health tracker that allows parents to track and manage the health and wellbeing of the entire family and view all the historical data in a simple but elegant week based diary view.
 
