@@ -6,6 +6,10 @@ include_in_header: false
 
 # Press Kit
 
+### App Store Link
+
+[Download WellBee: Family Health Diary from the App Store](https://apps.apple.com/us/app/wellbee-family-health-diary/id6761229336)
+
 ### TestFlight Link
 
 [Try WellBee: Family Health Diary on TestFlight](https://testflight.apple.com/join/cQJHcD7n)
