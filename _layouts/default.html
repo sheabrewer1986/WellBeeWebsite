@@ -8,19 +8,18 @@
             <div class="headerBackground">
                 <div class="container">
                     {% include header.html %}
-                    <div class="iphonePreview">
-                        <div class="videoContainer hidden">
-                            <video class="screenvideo" autoplay="autoplay" controls="controls">
-                            </video>
-                        </div>  
-                        
-                        <img class="iphoneScreen hidden" src="" alt="">
+                   <div class="iphonePreview">
+    <div class="videoContainer hidden">
+        <video class="screenvideo" autoplay="autoplay" controls="controls">
+        </video>
+    </div>
 
-                        {% include screencontent.html %}
+    <img class="iphoneScreen hidden" src="" alt="">
 
-                        <img class="iPhoneFrame" src="{{ 'assets/' | append: site.device.color | append: '.png' | relative_url }}" alt="">
+    {% include screencontent.html %}
 
-                    </div>
+    <img class="iphoneFrame" src="{{ 'assets/' | append: site.device_color | append: '.png' | relative_url }}" alt="">
+</div>
                     <div class="appInfo">
                         <div class="appIconShadow">
                             <svg width="0" height="0">
