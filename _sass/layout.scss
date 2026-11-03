@@ -706,7 +706,7 @@ footer {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
-	background-color: #fbeaad
+	background-color: #fbeaad;
 }
 
 .footerText {
@@ -734,6 +734,7 @@ footer {
 
 .footerLinks a {
 	margin-right: 30px;
+	color: #000000;
 }
 
 .footerLinks a:last-child {
