@@ -926,3 +926,20 @@ footer {
 .blogCard-about-wellbee {
     border-color: #f8dfe5;
 }
+
+// Blog Download Banner
+.blogDownloadBanner {
+    background-color: #fbeaad;
+    padding: 20px;
+    margin-top: 40px;
+    border-radius: 12px;
+    text-align: center;
+}
+
+.blogDownloadBanner img {
+    display: block;
+    width: 100%;
+    max-width: 700px;
+    height: auto;
+    margin: 0 auto;
+}
