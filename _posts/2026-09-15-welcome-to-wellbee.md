@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to WellBee: Family Health Diary"
-date: 2026-09-30
+date: 2026-09-15
 description: "A brief introduction to WellBee and how it came into bee-ing."
 categories: [About WellBee]
 ---
