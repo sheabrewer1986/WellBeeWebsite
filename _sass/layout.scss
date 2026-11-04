@@ -840,3 +840,44 @@ footer {
 .blogReadMore:hover {
     color: #806500;
 }
+
+// Blog Category Badges
+
+.blogCategories {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 10px 0 15px;
+}
+
+.blogCategory {
+    display: inline-block;
+    padding: 5px 12px;
+    border-radius: 50px;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 1.4;
+    color: #333333;
+}
+
+// Blog Category colours
+
+.category-wellbee-updates {
+    background-color: #fbeaad;
+}
+
+.category-family-health {
+    background-color: #dceeff;
+}
+
+.category-parenting {
+    background-color: #dff2df;
+}
+
+.category-guides-advice {
+    background-color: #e9e0f7;
+}
+
+.category-about-wellbee {
+    background-color: #f8dfe5;
+}
