@@ -821,6 +821,10 @@ footer {
 }
 
 .blogCardMeta {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
     color: #777777;
     font-size: 13px;
     margin-bottom: 15px;
