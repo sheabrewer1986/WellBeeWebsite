@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Welcome to WellBee: Family Health Diary"
+title: "The Story Behind WellBee: Designed by a Parent, for Parents"
 date: 2026-09-15
-description: "A brief introduction to WellBee and how it came into bee-ing."
+description: "A brief look at WellBee and how one parent's sleepless nights caring for their sick children led to its creation."
 categories: [About WellBee]
 ---
-
-# The Story Behind WellBee: Designed by a Parent, for Parents
 
 Hi, I'm Shea, the founder of WellBee: Family Health Diary. It's a project that's been close to my heart ever since the idea first came to me over four years ago.
 
