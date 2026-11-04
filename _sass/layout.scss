@@ -782,3 +782,61 @@ footer {
 .hidden {
 	display: none;
 }
+
+// Blog Listing
+
+.blogList {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    margin-top: 35px;
+}
+
+.blogCard {
+    display: flex;
+    align-items: center;
+    padding: 25px;
+    border: 2px solid #fbeaad;
+    border-radius: 18px;
+    background-color: #ffffff;
+}
+
+.blogCardContent {
+    flex: 1;
+    min-width: 0;
+}
+
+.blogCardContent h2 {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.blogCardContent h2 a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.blogCardContent h2 a:hover {
+    color: #806500;
+}
+
+.blogCardMeta {
+    color: #777777;
+    font-size: 13px;
+    margin-bottom: 15px;
+}
+
+.blogCardDescription {
+    color: #666666;
+    line-height: 1.6;
+}
+
+.blogReadMore {
+    color: #000000;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.blogReadMore:hover {
+    color: #806500;
+}
