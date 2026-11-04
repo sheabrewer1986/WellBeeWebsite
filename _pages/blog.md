@@ -21,12 +21,19 @@ Practical family health tips, helpful guides, parenting advice and updates from 
                 <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
             </h2>
 
-            <p class="blogCardMeta">
-                {{ post.date | date: "%d %B %Y" }}
-                {% if post.categories.size > 0 %}
-                    · {{ post.categories | join: ", " }}
-                {% endif %}
-            </p>
+         <p class="blogCardMeta">
+             {{ post.date | date: "%d %B %Y" }}
+         </p>
+         
+         {% if post.categories.size > 0 %}
+            <div class="blogCategories">
+                 {% for category in post.categories %}
+                     <span class="blogCategory category-{{ category | slugify }}">
+                        {{ category }}
+                     </span>
+                 {% endfor %}
+            </div>
+         {% endif %}
 
             <p class="blogCardDescription">
                 {{ post.description | default: post.excerpt | strip_html | truncate: 200 }}
