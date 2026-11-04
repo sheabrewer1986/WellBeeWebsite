@@ -32,6 +32,4 @@ When someone in the family is unwell, having the details organised in one place 
 
 History Views are just one part of WellBee's ongoing development. The aim is simple: to make managing family health a little easier by giving parents a straightforward way to record, organise and review the information that matters.
 
-**WellBee: Family Health Diary** is available on the App Store, with its core features completely free to use.
-
-[Download WellBee on the App Store](YOUR_APP_STORE_LINK)
+**WellBee: Family Health Diary** is available on the App Store and its core features are completely free to use.
