@@ -7,7 +7,11 @@ permalink: /blog/
 
 # WellBee Blog
 
-Practical family health tips, helpful guides, parenting advice and updates from WellBee.
+Welcome to the WellBee Blog, where you’ll find practical family health tips, helpful guides, everyday advice and the latest updates from WellBee.
+
+Whether you’re looking for ways to manage illness, keep track of your family’s health or make everyday life a little easier when someone is unwell, you’ll find useful information and resources here.
+
+Our aim is to help families feel more organised and better prepared when illness strikes.
 
 <div class="blogList">
 
