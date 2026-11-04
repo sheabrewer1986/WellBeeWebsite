@@ -17,7 +17,7 @@ Our aim is to help families feel more organised and better prepared when illness
 
 {% for post in site.posts %}
 
-    <article class="blogCard {% if post.categories.size > 0 %}category-{{ post.categories.first | slugify }}{% endif %}">
+    <article class="blogCard {% if post.categories.size > 0 %}blogCard-{{ post.categories.first | slugify }}{% endif %}">
 
         <div class="blogCardContent">
 
