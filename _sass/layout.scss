@@ -904,3 +904,25 @@ footer {
     color: #777777;
     font-size: 13px;
 }
+
+// Category-specific article borders
+
+.blogCard.category-wellbee-updates {
+    border-color: #fbeaad;
+}
+
+.blogCard.category-family-health {
+    border-color: #dceeff;
+}
+
+.blogCard.category-parenting {
+    border-color: #dff2df;
+}
+
+.blogCard.category-guides-advice {
+    border-color: #e9e0f7;
+}
+
+.blogCard.category-about-wellbee {
+    border-color: #f8dfe5;
+}
