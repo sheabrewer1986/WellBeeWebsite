@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "The Fuller Picture with History Views"
+title: "A Clearer Picture of Your Family’s Health with History Views"
 date: 2026-09-30
-description: "A closer look at WellBee's latest features, including History Views, which help parents review health records and track changes over time."
+description: "A closer look at WellBee's latest feature, History Views, which help parents review health records and track changes over time."
 categories: [WellBee Updates]
 ---
-
-# WellBee History Views: A Clearer Picture of Your Family's Health
 
 Keeping track of your family's health involves more than recording individual symptoms, temperatures or injuries. Sometimes, you need to step back and see the bigger picture.
 
