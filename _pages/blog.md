@@ -9,20 +9,37 @@ permalink: /blog/
 
 Practical family health tips, helpful guides, parenting advice and updates from WellBee.
 
+<div class="blogList">
+
 {% for post in site.posts %}
 
-<div class="blogPost">
+    <article class="blogCard">
 
-    <h2>
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </h2>
+        <div class="blogCardContent">
 
-    <p>{{ post.date | date: "%d %B %Y" }}</p>
+            <h2>
+                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            </h2>
 
-    <p>{{ post.description | default: post.excerpt | strip_html | truncate: 200 }}</p>
+            <p class="blogCardMeta">
+                {{ post.date | date: "%d %B %Y" }}
+                {% if post.categories.size > 0 %}
+                    · {{ post.categories | join: ", " }}
+                {% endif %}
+            </p>
 
-    <a href="{{ post.url | relative_url }}">Read article</a>
+            <p class="blogCardDescription">
+                {{ post.description | default: post.excerpt | strip_html | truncate: 200 }}
+            </p>
 
-</div>
+            <a class="blogReadMore" href="{{ post.url | relative_url }}">
+                Read article →
+            </a>
+
+        </div>
+
+    </article>
 
 {% endfor %}
+
+</div>
