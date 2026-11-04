@@ -885,3 +885,17 @@ footer {
 .category-about-wellbee {
     background-color: #f8dfe5;
 }
+
+// Blog Articles
+.blogArticleMeta {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-bottom: 25px;
+}
+
+.blogArticleDate {
+    color: #777777;
+    font-size: 13px;
+}
