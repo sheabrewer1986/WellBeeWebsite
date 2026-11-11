@@ -118,13 +118,15 @@ There are also age restrictions for other medicines. For example, paracetamol sh
 
 <strong>Get urgent medical help immediately if your child:</strong>
 
-- Is extremely agitated, confused or not responding as they normally would.
-- Has difficulty breathing or is difficult to wake.
-- Has a seizure.
-- Develops a stiff neck or sensitivity to light.
-- Has blue, grey, unusually pale or blotchy skin or lips.
-- Develops a rash that does not fade when pressed firmly with a clear glass.
-- Has a swollen or bulging soft spot on their head (in babies).
+<ul>
+  <li> Is extremely agitated, confused or not responding as they normally would.</li>
+  <li>Has difficulty breathing or is difficult to wake.</li>
+  <li>Has a seizure.</li>
+  <li>Develops a stiff neck or sensitivity to light.</li>
+  <li>Has blue, grey, unusually pale or blotchy skin or lips.</li>
+  <li>Develops a rash that does not fade when pressed firmly with a clear glass.</li>
+  <li>Has a swollen or bulging soft spot on their head (in babies).</li>
+</ul>
 
 </div>
 
