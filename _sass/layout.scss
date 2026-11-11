@@ -905,6 +905,46 @@ footer {
     font-size: 13px;
 }
 
+
+// Blog Article Highlight Boxes
+
+.blogHighlight {
+    padding: 20px 24px;
+    margin: 25px 0;
+    border-radius: 10px;
+    line-height: 1.6;
+}
+
+.blogHighlight p:last-child {
+    margin-bottom: 0;
+}
+
+// Important information
+.blogHighlight-yellow {
+    background-color: #fff5cc;
+    border-left: 5px solid #f6d65a;
+}
+
+// Helpful tips
+.blogHighlight-grey {
+    background-color: #f2f3f4;
+    border-left: 5px solid #b8bec5;
+}
+
+// Urgent warnings
+.blogHighlight-red {
+    background-color: #fce8e8;
+    border-left: 5px solid #dc5555;
+}
+
+// Mobile spacing
+@media only screen and (max-width: 768px) {
+    .blogHighlight {
+        padding: 16px 18px;
+        margin: 20px 0;
+    }
+}
+
 // Category-specific article borders
 
 .blogCard-wellbee-updates {
