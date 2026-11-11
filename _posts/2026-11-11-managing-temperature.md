@@ -6,7 +6,7 @@ description: "In this guide, we'll cover how to take your child's temperature, w
 categories: [Family Health]
 ---
 
-When our child feels hot, looks flushed or seems unusually unsettled, one of the first things we might reach for is a thermometer.
+When your child feels hot, looks flushed or seems unusually unsettled, one of the first things you might reach for is a thermometer.
 
 A raised temperature is common in babies and young children, particularly when they’re fighting an infection. Knowing how to take an accurate reading, what the number means and when to seek medical advice can help you feel better prepared.
 
