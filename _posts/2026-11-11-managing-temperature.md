@@ -14,9 +14,10 @@ In this guide, we'll cover how to take your child's temperature, what counts as 
 
 ## High temperatures in children
 
-> **HIGHLIGHT: YELLOW**
->
-> A child's normal body temperature can vary slightly. A temperature of 38°C or above is generally considered a fever.
+<div class="blogHighlight blogHighlight-yellow">
+  <strong>A child's normal body temperature can vary slightly.</strong>
+  A temperature of 38°C or above is generally considered a fever.
+</div>
 
 A fever is often the body’s natural response to an infection. It is not an illness in itself, but a sign that the immune system is responding to something.
 
@@ -38,9 +39,9 @@ A digital thermometer is a reliable and straightforward option for taking your c
 - Follow the manufacturer’s instructions and wait until the thermometer signals that the reading is complete.
 - Check and record the result.
 
-> **HIGHLIGHT: GREY**
->
-> When comparing readings, remember to record how the temperature was taken, as readings can vary depending on the measurement method.
+<div class="blogHighlight blogHighlight-grey">
+  When comparing readings, remember to record how the temperature was taken, as readings can vary depending on the measurement method.
+</div>
 
 If your child has just had a bath or been wrapped in a blanket, wait a few minutes before taking their temperature, as this can temporarily affect the reading.
 
@@ -96,30 +97,36 @@ There are also age restrictions for other medicines. For example, paracetamol sh
 
 ## When should you seek medical advice?
 
-> **HIGHLIGHT: YELLOW**
->
-> **Seek medical advice if your child:**
->
-> - Is under 3 months old and has a temperature of 38°C or above.
-> - Is 3 to 6 months old and has a temperature of 39°C or above.
-> - Is becoming increasingly unwell or behaving unusually.
-> - Shows signs of dehydration.
-> - Has a fever lasting five days or longer.
-> - Develops a rash alongside a fever.
-> - Is not feeding or drinking adequately.
-> - Causes you significant concern.
+<div class="blogHighlight blogHighlight-yellow">
 
-> **HIGHLIGHT: RED**
->
-> **Get urgent medical help immediately if your child:**
->
-> - Is extremely agitated, confused or not responding as they normally would.
-> - Has difficulty breathing or is difficult to wake.
-> - Has a seizure.
-> - Develops a stiff neck or sensitivity to light.
-> - Has blue, grey, unusually pale or blotchy skin or lips.
-> - Develops a rash that does not fade when pressed firmly with a clear glass.
-> - Has a swollen or bulging soft spot on their head (in babies).
+<strong>Seek medical advice if your child:</strong>
+
+<ul>
+  <li>Is under 3 months old and has a temperature of 38°C or above.</li>
+  <li>Is 3 to 6 months old and has a temperature of 39°C or above.</li>
+  <li>Is becoming increasingly unwell or behaving unusually.</li>
+  <li>Shows signs of dehydration.</li>
+  <li>Has a fever lasting five days or longer.</li>
+  <li>Develops a rash alongside a fever.</li>
+  <li>Is not feeding or drinking adequately.</li>
+  <li>Causes you significant concern.</li>
+</ul>
+
+</div>
+
+<div class="blogHighlight blogHighlight-red">
+
+<strong>Get urgent medical help immediately if your child:</strong>
+
+- Is extremely agitated, confused or not responding as they normally would.
+- Has difficulty breathing or is difficult to wake.
+- Has a seizure.
+- Develops a stiff neck or sensitivity to light.
+- Has blue, grey, unusually pale or blotchy skin or lips.
+- Develops a rash that does not fade when pressed firmly with a clear glass.
+- Has a swollen or bulging soft spot on their head (in babies).
+
+</div>
 
 If you're in the UK, contact NHS 111 for urgent advice or call 999 in an emergency. If you're elsewhere, contact your local urgent medical service.
 
