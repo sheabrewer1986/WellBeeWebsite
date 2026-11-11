@@ -13,6 +13,7 @@ This page keeps a record of what's changed with each release, so you can stay up
 <br>
 
 ### `Latest Update`
+*22 October 2026*
 
 Small changes and improvements to make WellBee easier to use:
 
@@ -24,7 +25,8 @@ Small changes and improvements to make WellBee easier to use:
 
 <br>
 
-### `Version 1.3.1`
+### `Version 1.3.0`
+*19 October 2026*
 
 **Growth Metric History is here!**
 
@@ -36,7 +38,8 @@ Small changes and improvements to make WellBee easier to use:
 
 <br>
 
-### `Version 1.3.0`
+### `Version 1.2.0`
+*12 October 2026*
 
 **Introducing Temperature History!**
 
@@ -49,7 +52,8 @@ Small changes and improvements to make WellBee easier to use:
 
 <br>
 
-### `Version 1.2.0`
+### `Version 1.1.1`
+*25 September 2026*
 
 **Improvements to Symptom History**
 
@@ -59,7 +63,8 @@ Small changes and improvements to make WellBee easier to use:
 
 <br>
 
-### `Version 1.1.1`
+### `Version 1.1.0`
+*19 September 2026*
 
 **Introducing Symptom History!**
 
@@ -70,7 +75,8 @@ Small changes and improvements to make WellBee easier to use:
 
 <br>
 
-### `Version 1.1.0`
+### `Version 1.0.3`
+*14 September 2026*
 
 **Introducing Lifetime Premium!**
 
@@ -80,13 +86,15 @@ Small changes and improvements to make WellBee easier to use:
 
 <br>
 
-### `Version 1.0.3`
+### `Version 1.0.2`
+*9 September 2026*
 
 • Improved subscription availability and purchase experience.
 
 <br>
 
-### `Version 1.0.2`
+### `Version 1.0.1`
+*7 September 2026*
 
 **Introducing a redesigned navigation experience!**
 
@@ -96,15 +104,10 @@ Small changes and improvements to make WellBee easier to use:
 
 <br>
 
-### `Version 1.0.1`
-
-• Initial improvements and refinements following the launch of WellBee.
-
-<br>
-
 ### `Initial Release`
 
 # **Version 1.0**
+*1 September 2026*
 
 WellBee is here!
 
