@@ -55,27 +55,27 @@ The priority is to keep your child comfortable and make sure they’re getting e
 
 Here are a few simple ways to help your child feel more comfortable:
 
-### Offer plenty of fluids
+- **Offer plenty of fluids**
 
 Encourage your child to drink regularly. If you’re breastfeeding a baby, continue offering breast milk as normal.
 
-### Look out for signs of dehydration
+- **Look out for signs of dehydration**
 
 This includes things such as fewer wet nappies, a dry mouth, sunken eyes or a lack of tears when crying.
 
-### Let them rest
+- **Let them rest**
 
 Allow them to rest and don’t worry if their usual routine goes out of the window for a day or two.
 
-### Keep clothing comfortable
+- **Keep clothing comfortable**
 
 Avoid wrapping your child in too many layers, but don’t try to cool them down by removing all their clothing either. Keep them comfortably dressed.
 
-### Keep an eye on their condition
+- **Keep an eye on their condition**
 
 Pay attention to how your child is behaving. Are they responding to you normally? Are they breathing comfortably? Do they seem reasonably alert when awake?
 
-### Check up on them regularly
+- **Check up on them regularly**
 
 It's important to continue checking on them throughout the day and night. Be especially mindful of any changes in their behaviour, symptoms or general condition.
 
