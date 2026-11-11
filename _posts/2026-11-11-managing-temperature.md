@@ -100,7 +100,7 @@ There are also age restrictions for other medicines. For example, paracetamol sh
 <div class="blogHighlight blogHighlight-yellow">
 
 <strong>Seek medical advice if your child:</strong>
-
+<br>
 <ul>
   <li>Is under 3 months old and has a temperature of 38°C or above.</li>
   <li>Is 3 to 6 months old and has a temperature of 39°C or above.</li>
@@ -117,7 +117,7 @@ There are also age restrictions for other medicines. For example, paracetamol sh
 <div class="blogHighlight blogHighlight-red">
 
 <strong>Get urgent medical help immediately if your child:</strong>
-
+<br>
 <ul>
   <li> Is extremely agitated, confused or not responding as they normally would.</li>
   <li>Has difficulty breathing or is difficult to wake.</li>
