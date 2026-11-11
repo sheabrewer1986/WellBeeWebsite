@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "A Clearer Picture of Your Family’s Health with History Views"
+title: "Managing Your Child’s Temperature: A Practical Guide for Parents"
 date: 2026-11-11
-description: "Managing Your Child’s Temperature: A Practical Guide for Parents"
-categories: [WellBee Updates]
+description: "In this guide, we'll cover how to take your child's temperature, what counts as a fever, how to care for them at home and when to seek medical advice."
+categories: [Family Health]
 ---
 
 When our child feels hot, looks flushed or seems unusually unsettled, one of the first things we might reach for is a thermometer.
