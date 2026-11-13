@@ -12,7 +12,44 @@ This page keeps a record of what's changed with each release, so you can stay up
 
 <br>
 
-### `Latest Update`
+### `Version 1.4.0` Latest Version
+*12 November 2026*
+
+**A Major Update Packed with New Features and Improvements!**
+
+**Medication Plans:**
+- **Medication Plan Overview** — A new dedicated view shows the progress of ongoing recurring medications, including taken and skipped doses.
+- **More Daily Doses** — You can now schedule up to 6 doses per day when creating a new medication plan.
+- **IMPORTANT:** Recurring medication plans created before this update will not support the new functionality.
+
+**Health History (Formerly Health Overview):**
+- **Centralised Health History** — Each family member's entire health history is now accessible from their profile page via the Health History Card.
+- **Dedicated History Views** — Appointments, observations and medications now have their own history views, making it easier to find the information you need.
+- **Reminder History** — View all past and future reminders in one unified timeline.
+- **Injuries, Diagnoses & Symptoms** — View both resolved and ongoing entries for a clearer picture of your health over time.
+
+**Images History:**
+- **Centralised Image History** — Access all your saved images directly from the Health History Card.
+- **Quick Entry Access** — Tap any image to open its associated health entry and easily revisit past health information.
+
+**Smaller Changes & Improvements:**
+- Take pictures directly using your camera when creating or editing an entry.
+- Added a Privacy Disclaimer page in Settings.
+- Added a Quick Resolve sheet to symptom history, making it faster to resolve symptoms.
+- Symptom history now displays metrics for the current or latest symptom episode.
+- Completed reminders now display their completion time.
+- Improved validation messages when creating temperature and growth metric entries.
+- Added a dedicated medication details view with useful insights and recent usage.
+- Appointments now support doctor information and hospital addresses.
+- Users in the Today tab are now sorted by the number of issues requiring attention.
+- Redesigned medication lists in the Profile tab.
+- Appointment event suggestions are no longer limited to 8 entries.
+- Fixed a bug that could allow duplicate entries to be created.
+- Numerous additional bug fixes, refinements and performance improvements.
+
+<br>
+
+### `Version 1.3.1`
 *22 October 2026*
 
 Small changes and improvements to make WellBee easier to use:
