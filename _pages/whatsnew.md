@@ -12,7 +12,7 @@ This page keeps a record of what's changed with each release, so you can stay up
 
 <br>
 
-### `Version 1.4.0 Latest Version`
+### `Latest - Version 1.4.0`
 *12 November 2026*
 
 **A Major Update Packed with New Features and Improvements!**
