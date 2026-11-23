@@ -1,6 +1,7 @@
 ---
 layout: resources
 title: Free Resources
+include_in_header: false
 permalink: /resources/
 ---
 
