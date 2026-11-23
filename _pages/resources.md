@@ -7,8 +7,9 @@ permalink: /resources/
 
 # Free Resources
 
-Practical tools and printable resources to help families stay organised and manage their health.
+We believe every family should have access to practical resources and support, especially when times are challenging. That's why all our resources are completely free to download, with no account, sign-up or personal information required.
 
+If you'd like to hear about new resources as they become available, helpful family health tips and the latest WellBee news, you're welcome to [sign up to our newsletter](/newsletter/).
 
 <div class="resourceGrid">
 
