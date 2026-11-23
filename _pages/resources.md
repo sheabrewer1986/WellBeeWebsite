@@ -14,7 +14,12 @@ If you'd like to hear about new resources as they become available, helpful fami
 <div class="resourceGrid">
 
     <div class="resourceCard">
-        <span class="resourceTag">Free printable</span>
+        <div class="resourceImage">
+            <img src="{{ '/assets/resources/child-illness-tracker.png' | relative_url }}"
+                 alt="Children's Illness Tracker">
+            <span class="resourceTag">Free printable</span>
+        </div>
+        
         <h2>Children's Illness Tracker</h2>
         <p>
             Keep track of symptoms, temperatures, medication times
@@ -26,7 +31,12 @@ If you'd like to hear about new resources as they become available, helpful fami
     </div>
 
     <div class="resourceCard">
-        <span class="resourceTag">Free printable</span>
+        <div class="resourceImage">
+            <img src="{{ '/assets/resources/child-health-information.png' | relative_url }}"
+                 alt="Child's Health Information">
+            <span class="resourceTag">Free printable</span>
+        </div>
+    
         <h2>Child Health Information Sheet</h2>
         <p>
             Keep important health information, medications,
