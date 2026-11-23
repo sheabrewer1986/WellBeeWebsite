@@ -12,7 +12,35 @@ This page keeps a record of what's changed with each release, so you can stay up
 
 <br>
 
-### `Latest - Version 1.4.0`
+### `Latest - Version 1.5.0`
+*21 November 2026*
+
+The following updates in Version 1.5.0 are as such:
+
+**Big Changes:**
+- Big redesign to Today, Diary and Create Views.
+- Quickly add certain entries from the Today View.
+- Added a Home Screen badge for outstanding items.
+- Filter entries in the Timeline or Recents View by entry type.
+
+**Small Changes:**
+- Create reminders directly from Reminder History.
+- Improved reminder creation with recent reminders.
+- Appointment History can now be filtered by event type.
+- Observation History can now be filtered by tag type.
+- Added temperature guidance in Temperature History.
+- Archived medications now appear with a grey tint.
+
+**Optimising the Codebase:**
+- Improved support for iPhone Duo layouts.
+- Fixed incorrect medication plan details and active plan counts.
+- Fixed users appearing incorrectly in medication usage lists.
+- Added Data Health tools to help tidy legacy medication plans and duplicate records.
+- General updates to help the app run smoother.
+
+<br>
+
+### `Version 1.4.0`
 *12 November 2026*
 
 **A Major Update Packed with New Features and Improvements!**
