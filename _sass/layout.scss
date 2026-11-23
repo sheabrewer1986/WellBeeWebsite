@@ -984,3 +984,60 @@ footer {
     height: auto;
     margin: 0 auto;
 }
+
+// Free Resources
+
+.resourcesPage {
+    padding: 40px 0 60px;
+
+    h1 {
+        font-size: 2.2rem;
+        font-weight: 700;
+        margin-bottom: 16px;
+        color: #222;
+    }
+
+    > p {
+        font-size: 1.1rem;
+        line-height: 1.6;
+        color: #666;
+        max-width: 650px;
+        margin-bottom: 40px;
+    }
+
+    .resourceGrid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+        gap: 24px;
+    }
+
+    .resourceCard {
+        background: #fff;
+        border: 2px solid #eee;
+        border-radius: 18px;
+        padding: 24px;
+        text-align: left;
+    }
+
+    .resourceCard h2 {
+        font-size: 1.3rem;
+        margin-bottom: 12px;
+    }
+
+    .resourceCard p {
+        color: #666;
+        line-height: 1.6;
+    }
+
+    .resourceCard a {
+        display: inline-block;
+        margin-top: 12px;
+        background: #f6d65a;
+        color: #222;
+        padding: 10px 18px;
+        border-radius: 10px;
+        font-weight: 600;
+        text-decoration: none;
+    }
+}
+
