@@ -1041,3 +1041,25 @@ footer {
     }
 }
 
+
+    .resourceCard {
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+        &:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 18px rgba(0, 0, 0, 0.06);
+        }
+    }
+
+    .resourceTag {
+        display: inline-block;
+        margin-top: 12px;
+        padding: 5px 12px;
+        background: #fff5c9;
+        color: #725c12;
+        border-radius: 20px;
+        font-size: 0.8rem;
+        font-weight: 600;
+    }
+
+
