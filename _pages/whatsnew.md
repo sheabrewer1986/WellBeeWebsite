@@ -10,8 +10,6 @@ WellBee is continually evolving, with improvements, new features and refinements
 
 This page keeps a record of what's changed with each release, so you can stay up to date with the latest additions and improvements.
 
-<br>
-
 ### `Latest - Version 1.5.0`
 *21 November 2026*
 
