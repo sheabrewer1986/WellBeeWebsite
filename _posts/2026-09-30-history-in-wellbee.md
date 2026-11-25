@@ -6,8 +6,6 @@ description: "A closer look at WellBee's latest feature, History Views, which he
 categories: [WellBee Updates]
 ---
 
-# A Clearer Picture of Your Family's Health History
-
 Keeping track of your family's health involves more than recording individual symptoms, temperatures or injuries. Sometimes, you need to step back and see the bigger picture.
 
 That's why **History Views** are an important part of WellBee: Family Health Diary. They make it easier for parents to review previous health entries, track changes over time and keep related information together in one place.
