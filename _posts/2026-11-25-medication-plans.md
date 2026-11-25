@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "A better way to stay in control of your medications"
+title: "A Better Way to Stay on Top of Recurring Medications"
 date: 2026-11-25
 description: "A closer look at Medication Plans, our improved way of managing recurring medications, helping families keep track of doses, schedules and progress in one place."
 categories: [WellBee Updates]
 ---
 
-# **A clearer way to manage recurring medications**
+# **A Better Way to Stay on Top of Recurring Medications**
 
 Keeping track of medication within a family can quickly become complicated, particularly when someone needs regular doses throughout the day. Knowing what was taken, what was missed and what’s coming up next can be difficult to manage from individual entries alone.
 
