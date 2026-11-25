@@ -10,7 +10,7 @@ Keeping track of your family's health involves more than recording individual sy
 
 That's why **History Views** are an important part of WellBee: Family Health Diary. They make it easier for parents to review previous health entries, track changes over time and keep related information together in one place.
 
-<small>Originally Published: 30 September 2026 · Updated: 25 November 2026</small>
+<small>Updated on 25 November 2026 to reference the expansion of Health History Views to all the main entry types in WellBee</small>
 
 <!-- Main History Views feature image -->
 <img src="/assets/articles/healthHistoryOverview.png" alt="History Views in WellBee: Family Health Diary" class="article-image">
