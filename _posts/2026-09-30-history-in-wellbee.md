@@ -30,7 +30,7 @@ Previously, tapping an existing diagnosis or injury opened a dedicated history v
 Symptoms and temperatures gained their own dedicated history views, making it easier to review previous entries, track changes over time and see how an issue has developed.
 
 <!-- Symptoms history screenshot -->
-<img src="/assets/articles/symptomHistoryView.png" alt="Reviewing symptom history and changes over time in WellBee" class="article-image">
+<img src="/assets/articles/healthHistoryTemperature.png" alt="Reviewing temperature history has never been easier with WellBee" class="article-image">
 
 ## The bigger picture, at a glance
 
@@ -43,7 +43,7 @@ When someone in the family is unwell, having the details organised in one place 
 History Views have continued to evolve since their introduction. What began with dedicated views for diagnoses and injuries, followed by symptoms and temperatures, has now expanded across WellBee's wider health records.
 
 <!-- Temperature history screenshot -->
-<img src="/assets/articles/appointmentHistoryView.png" alt="Reviewing recorded temperatures over time in WellBee" class="article-image">
+<img src="/assets/articles/healthHistoryObservation.png" alt="Health History's has been expanding since its inception" class="article-image">
 
 This means parents can review more of their family's health information in dedicated history views, bringing related entries together and making it easier to see how things have changed over time.
 
