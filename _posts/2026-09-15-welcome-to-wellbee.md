@@ -6,6 +6,14 @@ description: "A brief look at WellBee and how one parent's sleepless nights cari
 categories: [About WellBee]
 ---
 
+---
+layout: post
+title: "The Story Behind WellBee: Designed by a Parent, for Parents"
+date: 2026-09-15
+description: "A brief look at WellBee and how one parent's sleepless nights caring for their sick children led to its creation."
+categories: [About WellBee]
+---
+
 Hi, I'm Shea, the founder of WellBee: Family Health Diary. It's a project that's been close to my heart ever since the idea first came to me over four years ago.
 
 I still vividly remember those days when my two youngest children, then around 1 and 4, were terribly sick.
@@ -34,11 +42,17 @@ From symptoms and temperatures to medications, appointments, diagnoses and more,
 
 And the **core features are completely free to use**.
 
+<!-- Main WellBee iPhone mockup -->
+<img src="/assets/articles/welcomeToday.png" alt="WellBee: Family Health Diary displayed on an iPhone" class="article-image">
+
 ## What is WellBee?
 
 WellBee was created to make managing family health a little easier, particularly during those stressful times when one or more family members are unwell.
 
 Whether you're keeping track of a child's fever, recording medication, monitoring symptoms or preparing for a doctor's appointment, WellBee gives you one place to organise the details that matter.
+
+<!-- WellBee Diary screenshot -->
+<img src="/assets/articles/welcomeDiary.png" alt="The WellBee family health diary showing recorded health information" class="article-image">
 
 ## What can you expect from the blog?
 
