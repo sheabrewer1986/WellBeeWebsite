@@ -15,7 +15,7 @@ If you'd like to hear about new resources as they become available, helpful fami
 
     <div class="resourceCard">
         <div class="resourceImage">
-            <img src="{{ '/assets/resources/child-illness-tracker.png' | relative_url }}"
+            <img src="{{ '/assets/resources/child-illness-tracker-image.jpg' | relative_url }}"
                  alt="Children's Illness Tracker">
             <span class="resourceTag">Free printable</span>
         </div>
@@ -32,7 +32,7 @@ If you'd like to hear about new resources as they become available, helpful fami
 
     <div class="resourceCard">
         <div class="resourceImage">
-            <img src="{{ '/assets/resources/child-health-information.png' | relative_url }}"
+            <img src="{{ '/assets/resources/child-health-information-image.jpg' | relative_url }}"
                  alt="Child's Health Information">
             <span class="resourceTag">Free printable</span>
         </div>
