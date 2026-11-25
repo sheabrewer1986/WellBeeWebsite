@@ -6,9 +6,14 @@ description: "A closer look at Medication Plans, our improved way of managing re
 categories: [WellBee Updates]
 ---
 
+# **A Better Way to Manage Recurring Medications**
+
 Keeping track of medication within a family can quickly become complicated, particularly when someone needs regular doses throughout the day. Knowing what was taken, what was missed and what’s coming up next can be difficult to manage from individual entries alone.
 
 That’s why we’ve introduced dedicated Medication Plans in WellBee: Family Health Diary. They provide a clearer overview of recurring medication schedules, making it easier for parents to monitor doses and keep track of treatment over time.
+
+<!-- Main Medication Plan overview image -->
+<img src="/assets/images/medication-plan-overview.png" alt="WellBee Medication Plan overview" class="article-image">
 
 ## **Bringing medication schedules together**
 
@@ -20,6 +25,9 @@ Recurring medications now have their own dedicated Medication Plan overview, bri
 
 Parents can quickly see which doses have been taken, which have been skipped and how a medication schedule is progressing without having to work through individual entries.
 
+<!-- Taken and skipped doses image -->
+<img src="/assets/images/medication-plan-progress.png" alt="Tracking taken and skipped medication doses in WellBee" class="article-image">
+
 ## **More flexibility throughout the day**
 
 Medication routines aren’t always straightforward. Some require just one dose a day, while others involve several doses spread across the day.
@@ -27,6 +35,9 @@ Medication routines aren’t always straightforward. Some require just one dose 
 Medication Plans now support up to six scheduled doses per day, providing greater flexibility for families managing more involved medication routines.
 
 Whether it’s a simple daily schedule or a more detailed routine, parents have a clearer way to organise and monitor recurring medications.
+
+<!-- Multiple daily doses image -->
+<img src="/assets/images/medication-plan-schedule.png" alt="Multiple scheduled medication doses in WellBee" class="article-image">
 
 ## **Making medication easier to manage**
 
