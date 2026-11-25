@@ -6,8 +6,6 @@ description: "A closer look at Medication Plans, our improved way of managing re
 categories: [WellBee Updates]
 ---
 
-# **A Better Way to Manage Recurring Medications**
-
 Keeping track of medication within a family can quickly become complicated, particularly when someone needs regular doses throughout the day. Knowing what was taken, what was missed and what’s coming up next can be difficult to manage from individual entries alone.
 
 That’s why we’ve introduced dedicated Medication Plans in WellBee: Family Health Diary. They provide a clearer overview of recurring medication schedules, making it easier for parents to monitor doses and keep track of treatment over time.
