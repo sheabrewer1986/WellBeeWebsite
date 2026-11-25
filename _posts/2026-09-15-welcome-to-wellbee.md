@@ -6,14 +6,6 @@ description: "A brief look at WellBee and how one parent's sleepless nights cari
 categories: [About WellBee]
 ---
 
----
-layout: post
-title: "The Story Behind WellBee: Designed by a Parent, for Parents"
-date: 2026-09-15
-description: "A brief look at WellBee and how one parent's sleepless nights caring for their sick children led to its creation."
-categories: [About WellBee]
----
-
 Hi, I'm Shea, the founder of WellBee: Family Health Diary. It's a project that's been close to my heart ever since the idea first came to me over four years ago.
 
 I still vividly remember those days when my two youngest children, then around 1 and 4, were terribly sick.
